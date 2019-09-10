@@ -7,33 +7,18 @@
 - 82班班长
 
 ### What have I done?
+- 初级码农，刚刚自学了一部分python
+- 生竞党，对生物信息略有了解
+- 刚刚启动跑步健身的计划，并已坚持一周
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### What do I plan to do?
+- 找到自己的兴趣方向，进实验室
+- 认真学习！继续提高绩点！
+- 列计划，更好的管理自己（比如现在正在做的）
 
 
-### What do I want to do?
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Isabel-Wu/Isabel-Wu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
