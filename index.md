@@ -24,7 +24,7 @@
 - buying (everything could be the object)
 
 
-### Want to contact me？(Oh, I guess you can't wait anymore)
+### Want to contact me？(Oh, I guess you can't wait it anymore)
 This is my [first page](Isabel-Wu.github.io)
 
 My tel: 010-95483
