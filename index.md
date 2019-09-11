@@ -25,7 +25,7 @@
 
 
 ### Want to contact me？(Oh, I guess you can't wait it anymore)
-This is my [first page](Isabel-Wu.github.io)
+This is my [first page](https://isabel-wu.github.io/)
 
 My tel: 010-95483
 
